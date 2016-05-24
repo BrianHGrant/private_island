@@ -1,22 +1,43 @@
 h1 {
   text-align: center;
-  color: #669999;
-  font-family: cursive;
+  color: #391356;
+  font-family: fantasy;
+  font-size: 50px;
 }
 
 img {
   border-style: solid;
-  border-color: #669999;
+  border-color: #724C8F;
+  border-width: thick;
   height: 100px;
 }
 h3 {
-  color: #407F7F;
+  color: #9476AB;
   font-family: serif;
   font-size: 22px;
 }
 
 h2 {
-  color: #55AA55;
+  text-align: center;
+  color: #9476AB;
   font-family: serif;
   font-size: 25px;
+}
+
+p {
+  font-family: monospace;
+  color: #391356;
+  font-size: 25px;
+}
+li {
+  font-family: monospace;
+  color: #724C8F;
+  font-size: 23px;
+}
+
+h5
+{
+  font-family: cursive;
+  color: #9476AB;
+  font-size: 23px;
 }
