@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+  color: #669999;
+  font-family: cursive;
+}
+
+img {
+  border-style: solid;
+  border-color: #669999;
+  height: 100px;
+}
+h3 {
+  color: #407F7F;
+  font-family: serif;
+  font-size: 22px;
+}
+
+h2 {
+  color: #55AA55;
+  font-family: serif;
+  font-size: 25px;
+}
